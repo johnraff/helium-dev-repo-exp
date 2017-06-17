@@ -1,0 +1,5 @@
+Component: main
+Origin: bunsenlabs
+Label: bl_helium_experimental
+Architecture: i386
+Description: BunsenLabs experimental Helium repository

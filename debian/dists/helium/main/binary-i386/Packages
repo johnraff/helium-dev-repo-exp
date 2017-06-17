@@ -1,0 +1,56 @@
+Package: bunsen-common
+Version: 9.0-1
+Architecture: all
+Maintainer: John Crawley <john@bunsenlabs.org>
+Installed-Size: 109
+Depends: bunsen-keyring
+Breaks: bunsen-images (<< 8.3.1-1), bunsen-pipemenus (<< 8.9-1), bunsen-welcome (<< 8.10-1)
+Replaces: bunsen-images (<< 8.3.1-1)
+Homepage: https://github.com/BunsenLabs/bunsen-common
+Priority: extra
+Section: misc
+Filename: pool/main/b/bunsen-common/bunsen-common_9.0-1_all.deb
+Size: 14960
+SHA256: c8c8d1981502c05e760c9059bb423541804da7796dea703e1a5353496aa3997a
+SHA1: 99768ed4dc7a037222dcadfc0cfb7b5024472080
+MD5sum: 3b3008e872725286d740beebb9ab5856
+Description: Various shared files for BunsenLabs
+ Files holding shared script functions, images
+ and other data which might be used by various packages
+ in BunsenLabs.
+
+Package: bunsen-conky
+Version: 9.0.1-1
+Architecture: all
+Maintainer: John Crawley <john@bunsenlabs.org>
+Installed-Size: 235
+Depends: conky-all, jq
+Recommends: bunsen-utilities, bunsen-pipemenus
+Homepage: https://github.com/BunsenLabs/bunsen-conky
+Priority: extra
+Section: misc
+Filename: pool/main/b/bunsen-conky/bunsen-conky_9.0.1-1_all.deb
+Size: 111668
+SHA256: 7df1197cfa810324df8a7413c07b078acf51f025e4922c13b3bc72ee271c5ab0
+SHA1: 7081122561069719e488ede6f5c1b0b9e961ec41
+MD5sum: 95d3f793cf44a0bc976b798bb970682a
+Description: Conky configuration files and related scripts for BunsenLabs.
+ A collection of conky configuration files, images and scripts which
+ allow the setting up of a variety of interesting conky displays.
+
+Package: bunsen-docs
+Version: 9.0-1
+Architecture: all
+Maintainer: John Crawley <john@bunsenlabs.org>
+Installed-Size: 42
+Homepage: https://github.com/BunsenLabs/bunsen-docs
+Priority: extra
+Section: doc
+Filename: pool/main/b/bunsen-docs/bunsen-docs_9.0-1_all.deb
+Size: 5734
+SHA256: 85249fbb9743148faf5983a79139abff3d3cad24866e9003f2d6b228bbe77e07
+SHA1: 989ad5b984e3738f889193823378a90f294dbd52
+MD5sum: c5eba6addebd1634eeb266a6f44e205c
+Description: Documentation for BunsenLabs
+ Helpfiles and other documentation for BunsenLabs.
+

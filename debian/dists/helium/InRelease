@@ -1,0 +1,60 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: bunsenlabs
+Label: bl_helium_experimental
+Codename: helium
+Date: Wed, 24 May 2017 06:02:39 UTC
+Architectures: i386 amd64
+Components: main
+Description: BunsenLabs experimental Helium repository
+MD5Sum:
+ be3a074de92f737c0ed3c31ec2ea6901 2019 main/binary-i386/Packages
+ f4ec222b73db562b28a523fd5a25e154 889 main/binary-i386/Packages.gz
+ 38f6c015be3c005f17ede1704701bc00 139 main/binary-i386/Release
+ be3a074de92f737c0ed3c31ec2ea6901 2019 main/binary-amd64/Packages
+ f4ec222b73db562b28a523fd5a25e154 889 main/binary-amd64/Packages.gz
+ b2fa5ac7bdb092ebebaf76da01a527ef 140 main/binary-amd64/Release
+ 0be731f3d4b8f6f1fc0b57e979e55e0b 3648 Contents-i386
+ 4db4ce5a03e1fd241e55ba8a586f7166 556 Contents-i386.gz
+ 0be731f3d4b8f6f1fc0b57e979e55e0b 3648 Contents-amd64
+ 4db4ce5a03e1fd241e55ba8a586f7166 556 Contents-amd64.gz
+SHA1:
+ 584aae833b64d7dfcd37ac658c967ce255e8856d 2019 main/binary-i386/Packages
+ e9c565795787786c7eb1d7b9a0b9b23fc24de828 889 main/binary-i386/Packages.gz
+ 89065d565ced57f97bfb3f16e2cbe476b81e1fc1 139 main/binary-i386/Release
+ 584aae833b64d7dfcd37ac658c967ce255e8856d 2019 main/binary-amd64/Packages
+ e9c565795787786c7eb1d7b9a0b9b23fc24de828 889 main/binary-amd64/Packages.gz
+ 6bae6b8ee80d46c0694921bc73364e005d3ab33b 140 main/binary-amd64/Release
+ a5d63ccadab42305e306922f3cd80762983a03b5 3648 Contents-i386
+ b171db351831ec43518c427f076cc601a3ecb622 556 Contents-i386.gz
+ a5d63ccadab42305e306922f3cd80762983a03b5 3648 Contents-amd64
+ b171db351831ec43518c427f076cc601a3ecb622 556 Contents-amd64.gz
+SHA256:
+ 0e8ca0a26636058556df151aaf3553e00b09df5fbc20c9a2e0590b014c300b78 2019 main/binary-i386/Packages
+ 51609a49f71f91dccc29804922204aaa4dab3eff85832cb33886707469218aeb 889 main/binary-i386/Packages.gz
+ 2697ed764e92f242be723c61a2729682291b7949644d82eb19abe22d4db97881 139 main/binary-i386/Release
+ 0e8ca0a26636058556df151aaf3553e00b09df5fbc20c9a2e0590b014c300b78 2019 main/binary-amd64/Packages
+ 51609a49f71f91dccc29804922204aaa4dab3eff85832cb33886707469218aeb 889 main/binary-amd64/Packages.gz
+ b0903fcb4285396d8ab2c142b9cc1a62dd3dcbbe024a3a025347db88bbad69ee 140 main/binary-amd64/Release
+ 55fd834acc383f6a4d32a2c25c3785bd070db3a57aa170a2320fd3f2e123a986 3648 Contents-i386
+ 0e7e263c39dca4d15f63608f59fcf0c970f72f9c8895ea85ae53e9ae4523318b 556 Contents-i386.gz
+ 55fd834acc383f6a4d32a2c25c3785bd070db3a57aa170a2320fd3f2e123a986 3648 Contents-amd64
+ 0e7e263c39dca4d15f63608f59fcf0c970f72f9c8895ea85ae53e9ae4523318b 556 Contents-amd64.gz
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQIcBAEBCAAGBQJZJSH/AAoJEI/9LOmTBxZx0ToP/2e01yvi5qqgcIammqcVUFjc
+c7cEj1D4j4TzhROcOlthjTtk9ZSuTGgISB2SMfULz57Nt1rI3u7/MR5tq/kUQTME
+1sozJ35Xt6yGE8rR+mXJZE4F89Zgth39cbrxugZBm2sJDIXxutX8vMK19Vvmxet3
+tmkazTVYW0eFsk6WozbTQigF5PSEcGz0C4YtjrLQjKKDku0hv2CKvfLsVTiVIHkF
+va87cfk1HhxPWPzGgGjZZ82vZgp4eTUrIhi2sbmWN6PRtDInA0JBvCVO8qpB0YlS
+FrZ3rBIFTNpE4/x7OxH2FPeR1M4mEk84Bu8DMVLetrEJJESMR1LfLadYQlmQuzlL
+K7EMBtlTHoErt8r8+DF5yxCSYHxI2Rn7c8SBoaoqxy+Kmjv0lLOAYzxdkaU67hUs
+YZEYXW7ygkPdqcK0RhYeQvHlx04Znw/qwl9TFH2WUVRzNZi/NanAs/gtGoP4GDf6
+J8R1c/4Dt0FPYiIIZ6VkKSe+ZylY9DlK0qXrxW4RNBmFX+j+t5Va2cFDTcYmBwEp
+xmeu9l/3knmZmHDOcXzHnVCsSQJxAkQXs4lzr2DFxX7q0+NK07mJ7l341WL5LU+y
+hqz+bexudOwzSD1Gl6QpNehmmfqAmxrQu8syoau32yMpt0I4f4CZBfLNgZ16AK4l
+2B7kh3DBxzDvlHysOwvk
+=2knT
+-----END PGP SIGNATURE-----
