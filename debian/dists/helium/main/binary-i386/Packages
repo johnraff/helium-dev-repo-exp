@@ -19,3 +19,26 @@ Description: Various shared files for BunsenLabs
  and other data which might be used by various packages
  in BunsenLabs.
 
+Package: bunsen-configs
+Version: 9.1.7-1
+Architecture: all
+Maintainer: John Crawley <john@bunsenlabs.org>
+Installed-Size: 1293
+Recommends: bunsen-utilities, bunsen-pipemenus, bunsen-docs, bunsen-images, bunsen-themes, bunsen-conky, lightdm, openbox, paper-icon-theme, nitrogen, scrot, yad, bunsen-thunar, volumeicon-alsa, clipit
+Suggests: qt5-style-plugins, libqt5svg5
+Breaks: bunsen-utilities (<< 0.3-6)
+Replaces: bunsen-utilities (<< 0.3-6)
+Homepage: https://github.com/BunsenLabs/bunsen-configs
+Priority: optional
+Section: misc
+Filename: pool/main/b/bunsen-configs/bunsen-configs_9.1.7-1_all.deb
+Size: 619242
+SHA256: bea80f14c9efd284f4a4751ceb99fb58603f07cc5f8183093c8100593d451ac4
+SHA1: abe4e3ba5ce89a353aa1d80d85a2b9b5c4990b6d
+MD5sum: 916717bc587a0887aca4a8159291515f
+Description: config files for BunsenLabs Linux
+ Various configuration files for BunsenLabs Linux.
+ Contains user config files to be copied into a new user's home directory,
+ scripts and desktop files to set up the bl-alternatives system,
+ and some other system configuration files.
+

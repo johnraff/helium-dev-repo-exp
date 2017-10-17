@@ -1,40 +1,40 @@
 Origin: bunsenlabs
 Label: bl_helium_experimental
 Codename: helium
-Date: Wed, 21 Jun 2017 09:06:00 UTC
+Date: Tue, 17 Oct 2017 09:32:22 UTC
 Architectures: i386 amd64
 Components: main
 Description: BunsenLabs experimental Helium repository
 MD5Sum:
- c3bfc2662d580c40cde5399b96d9485e 766 main/binary-i386/Packages
- 2aaf07e15adeb1b4b6044dc2e1335e67 490 main/binary-i386/Packages.gz
+ 6dff0edaecf60c7e1c9655a58a8f33f3 1822 main/binary-i386/Packages
+ df7e015567ecdcddb487fe9f452c0f2b 890 main/binary-i386/Packages.gz
  38f6c015be3c005f17ede1704701bc00 139 main/binary-i386/Release
- c3bfc2662d580c40cde5399b96d9485e 766 main/binary-amd64/Packages
- 2aaf07e15adeb1b4b6044dc2e1335e67 490 main/binary-amd64/Packages.gz
+ 6dff0edaecf60c7e1c9655a58a8f33f3 1822 main/binary-amd64/Packages
+ df7e015567ecdcddb487fe9f452c0f2b 890 main/binary-amd64/Packages.gz
  b2fa5ac7bdb092ebebaf76da01a527ef 140 main/binary-amd64/Release
- 61b9e4fe516009a578482ec206c5e6d8 778 Contents-i386
- e836e2bbead206f8517e6f0e3eff0863 223 Contents-i386.gz
- 61b9e4fe516009a578482ec206c5e6d8 778 Contents-amd64
- e836e2bbead206f8517e6f0e3eff0863 223 Contents-amd64.gz
+ b74fb3795a342d9f1ae4326ae90b5232 12771 Contents-i386
+ c5f0bde320c6d74f5c6493865cde4934 1509 Contents-i386.gz
+ b74fb3795a342d9f1ae4326ae90b5232 12771 Contents-amd64
+ c5f0bde320c6d74f5c6493865cde4934 1509 Contents-amd64.gz
 SHA1:
- 951a17ced5fd97fece58b4d78ef2096a46e6305d 766 main/binary-i386/Packages
- 8ec2c74a9a9eb7ac873368abb5be19490635ff08 490 main/binary-i386/Packages.gz
+ 9f84b779d40e0f3115b0143ee884e880e407d35c 1822 main/binary-i386/Packages
+ 168498b14c576f96576826a586d0f04fa583e594 890 main/binary-i386/Packages.gz
  89065d565ced57f97bfb3f16e2cbe476b81e1fc1 139 main/binary-i386/Release
- 951a17ced5fd97fece58b4d78ef2096a46e6305d 766 main/binary-amd64/Packages
- 8ec2c74a9a9eb7ac873368abb5be19490635ff08 490 main/binary-amd64/Packages.gz
+ 9f84b779d40e0f3115b0143ee884e880e407d35c 1822 main/binary-amd64/Packages
+ 168498b14c576f96576826a586d0f04fa583e594 890 main/binary-amd64/Packages.gz
  6bae6b8ee80d46c0694921bc73364e005d3ab33b 140 main/binary-amd64/Release
- cfc3453357f0dfdc0d05a3f480629075efd40fbe 778 Contents-i386
- 6aaa155d20139e5995540ef69f21e543a0254a76 223 Contents-i386.gz
- cfc3453357f0dfdc0d05a3f480629075efd40fbe 778 Contents-amd64
- 6aaa155d20139e5995540ef69f21e543a0254a76 223 Contents-amd64.gz
+ af3835510fe1ce5a3390ba8225ce7d8a016110ed 12771 Contents-i386
+ d1f22a77d8769dad74ccd0e49e022c78704bf3cc 1509 Contents-i386.gz
+ af3835510fe1ce5a3390ba8225ce7d8a016110ed 12771 Contents-amd64
+ d1f22a77d8769dad74ccd0e49e022c78704bf3cc 1509 Contents-amd64.gz
 SHA256:
- e48967dd7e65baa5e048d1ea02585977b22e24e9ac6265325cb5b4ae6f2158c0 766 main/binary-i386/Packages
- 9263a62d011f3dc5385508d0b1cb0ba0d2792e785bb063961efb83961a432d95 490 main/binary-i386/Packages.gz
+ 692e988ccf62389f91a3b6dc823da52c020d814f9e925ea888e09490bb7579bb 1822 main/binary-i386/Packages
+ 560257539570fe5eaa8105d67d95334ff8f26d65c47ac5aeac907c53c2aa3c1b 890 main/binary-i386/Packages.gz
  2697ed764e92f242be723c61a2729682291b7949644d82eb19abe22d4db97881 139 main/binary-i386/Release
- e48967dd7e65baa5e048d1ea02585977b22e24e9ac6265325cb5b4ae6f2158c0 766 main/binary-amd64/Packages
- 9263a62d011f3dc5385508d0b1cb0ba0d2792e785bb063961efb83961a432d95 490 main/binary-amd64/Packages.gz
+ 692e988ccf62389f91a3b6dc823da52c020d814f9e925ea888e09490bb7579bb 1822 main/binary-amd64/Packages
+ 560257539570fe5eaa8105d67d95334ff8f26d65c47ac5aeac907c53c2aa3c1b 890 main/binary-amd64/Packages.gz
  b0903fcb4285396d8ab2c142b9cc1a62dd3dcbbe024a3a025347db88bbad69ee 140 main/binary-amd64/Release
- c920caa2eb763c28648560ddbdb024dfd982ec046ba0543280beed8c36de3237 778 Contents-i386
- 02fe1ec25246d064b00cc2996af3cd4283222810f9b030ecf4e880d311d3a188 223 Contents-i386.gz
- c920caa2eb763c28648560ddbdb024dfd982ec046ba0543280beed8c36de3237 778 Contents-amd64
- 02fe1ec25246d064b00cc2996af3cd4283222810f9b030ecf4e880d311d3a188 223 Contents-amd64.gz
+ cfa7ca57b33df6dce39131aa918faa8975178e7764d2cd4d923da44496823d8d 12771 Contents-i386
+ 1b93ad4f30d4c0d9b51947430490e28b832f3020281030dcb6c4cc395cae98b3 1509 Contents-i386.gz
+ cfa7ca57b33df6dce39131aa918faa8975178e7764d2cd4d923da44496823d8d 12771 Contents-amd64
+ 1b93ad4f30d4c0d9b51947430490e28b832f3020281030dcb6c4cc395cae98b3 1509 Contents-amd64.gz
